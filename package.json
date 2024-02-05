@@ -31,7 +31,7 @@
     "openai-edge": "^1.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "tailwind-merge": "^1.13.2",
+    "tailwind-merge": "^2.2.0",
     "tier": "^5.10.0",
     "zod": "^3.21.4"
   },
